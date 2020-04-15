@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Godot-specific ignores
 .import/
@@ -7,5 +8,16 @@ export_presets.cfg
 
 # Mono-specific ignores
 .mono/
+=======
+
+# Godot-specific ignores
+.import/
+*.import/
+export.cfg
+export_presets.cfg
+
+# Mono-specific ignores
+.mono/
+>>>>>>> db7a11d846f2b101d53067413ba40a6c389e7af0
 data_*/
 *.import/
